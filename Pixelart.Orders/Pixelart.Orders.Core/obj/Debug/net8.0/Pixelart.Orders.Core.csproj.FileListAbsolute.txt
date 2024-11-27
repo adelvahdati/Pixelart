@@ -1,0 +1,4 @@
+E:\My Program\Pixelart\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Program\Pixelart\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.AssemblyInfoInputs.cache
+E:\My Program\Pixelart\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.AssemblyInfo.cs
+E:\My Program\Pixelart\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.csproj.CoreCompileInputs.cache
