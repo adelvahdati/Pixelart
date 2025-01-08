@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj": {
-              "projectPath": "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj"
+            "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj": {
+              "projectPath": "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj"
             }
           }
         }

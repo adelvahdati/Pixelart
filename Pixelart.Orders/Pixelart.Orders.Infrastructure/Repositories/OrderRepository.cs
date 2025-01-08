@@ -58,7 +58,7 @@ public class OrderRepository : IOrderRepository
                                                 Price.Create(item.Product.Price),
                                                 Quantity.Create(item.Quantity)
                                             )).ToList(),
-                        new Customer(orderEntity.Customer.Id,orderEntity.Customer.Name),
+                        new Customer(orderEntity.Customer.Id,orderEntity.Customer.Name,orderEntity.Customer.Family),
                         orderEntity.Status,
                         orderEntity.TotalPrice
                     )).ToListAsync();
