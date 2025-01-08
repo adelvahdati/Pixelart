@@ -1,15 +1,16 @@
 using System.Runtime.InteropServices;
+using Pixelart.Orders.Core.ValueObjects;
 
 namespace Pixelart.Orders.Core.Entities;
 public class Product
 {
-    public Guid Id { get; set; }
-    public string Name {get;set;}
-    public Price UnitPrice {get;set;} 
-    public int Quantity {get;set;}
+    public Product(Guid id, string name, Price unitPrice)
+    {
+        Id = id;
+        Name = name;        
+    }
 
-    public long GetPrice(){
-        
-        return UnitPrice.Value*Quantity;
-    }    
+    public Guid Id { get; private set; }
+    public string Name {get; private set;}
+    public Price UnitPrice {get;private set;} 
 }

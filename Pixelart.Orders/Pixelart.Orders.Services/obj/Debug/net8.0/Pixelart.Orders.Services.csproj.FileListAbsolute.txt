@@ -1,0 +1,16 @@
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\obj\Debug\net8.0\Pixelart.Orders.Services.csproj.AssemblyReference.cache
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\obj\Debug\net8.0\Pixelart.Orders.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\obj\Debug\net8.0\Pixelart.Orders.Services.AssemblyInfoInputs.cache
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\obj\Debug\net8.0\Pixelart.Orders.Services.AssemblyInfo.cs
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\obj\Debug\net8.0\Pixelart.Orders.Services.csproj.CoreCompileInputs.cache
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\obj\Debug\net8.0\Pixelart.Orders.Services.sourcelink.json
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\bin\Debug\net8.0\Pixelart.Orders.Services.deps.json
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\bin\Debug\net8.0\Pixelart.Orders.Services.dll
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\bin\Debug\net8.0\Pixelart.Orders.Services.pdb
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\bin\Debug\net8.0\Pixelart.Orders.Core.dll
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\bin\Debug\net8.0\Pixelart.Orders.Core.pdb
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\obj\Debug\net8.0\Pixelart.2F7E5D90.Up2Date
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\obj\Debug\net8.0\Pixelart.Orders.Services.dll
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\obj\Debug\net8.0\refint\Pixelart.Orders.Services.dll
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\obj\Debug\net8.0\Pixelart.Orders.Services.pdb
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Services\obj\Debug\net8.0\ref\Pixelart.Orders.Services.dll

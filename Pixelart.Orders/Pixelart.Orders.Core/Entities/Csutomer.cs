@@ -1,3 +1,5 @@
+using Pixelart.Orders.Core.ValueObjects;
+
 namespace Pixelart.Orders.Core.Entities;
 
 public class Customer
@@ -6,6 +8,8 @@ public class Customer
     {
         Id = id;
         Name = name;
+        
+
     }
 
     public Guid Id { get; private set; }

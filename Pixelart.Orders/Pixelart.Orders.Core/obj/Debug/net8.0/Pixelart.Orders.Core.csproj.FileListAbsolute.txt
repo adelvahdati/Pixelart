@@ -2,3 +2,15 @@ E:\My Program\Pixelart\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pix
 E:\My Program\Pixelart\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.AssemblyInfoInputs.cache
 E:\My Program\Pixelart\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.AssemblyInfo.cs
 E:\My Program\Pixelart\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.csproj.CoreCompileInputs.cache
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Core\bin\Debug\net8.0\Pixelart.Orders.Core.deps.json
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Core\bin\Debug\net8.0\Pixelart.Orders.Core.dll
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Core\bin\Debug\net8.0\Pixelart.Orders.Core.pdb
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.AssemblyInfoInputs.cache
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.AssemblyInfo.cs
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.csproj.CoreCompileInputs.cache
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.sourcelink.json
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.dll
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\refint\Pixelart.Orders.Core.dll
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\Pixelart.Orders.Core.pdb
+E:\My Program\Pixelart Project\Pixelart.Orders\Pixelart.Orders.Core\obj\Debug\net8.0\ref\Pixelart.Orders.Core.dll

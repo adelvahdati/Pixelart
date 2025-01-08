@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pixelart.Orders.Infrastructure", "Pixelart.Orders.Infrastructure.csproj", "{DCC75ABE-5458-4C4A-ACE5-A04CD33F51DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC75ABE-5458-4C4A-ACE5-A04CD33F51DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC75ABE-5458-4C4A-ACE5-A04CD33F51DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC75ABE-5458-4C4A-ACE5-A04CD33F51DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC75ABE-5458-4C4A-ACE5-A04CD33F51DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB85E4F1-7FF5-4750-986E-BFC240461E24}
+	EndGlobalSection
+EndGlobal

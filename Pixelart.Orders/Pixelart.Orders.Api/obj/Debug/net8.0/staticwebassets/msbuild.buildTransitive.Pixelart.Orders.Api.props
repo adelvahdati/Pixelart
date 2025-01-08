@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Pixelart.Orders.Api.props" />
+</Project>

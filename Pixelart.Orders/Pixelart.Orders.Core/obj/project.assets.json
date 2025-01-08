@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Program\\Pixelart\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj",
+      "projectUniqueName": "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj",
       "projectName": "Pixelart.Orders.Core",
-      "projectPath": "E:\\My Program\\Pixelart\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj",
+      "projectPath": "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj",
       "packagesPath": "C:\\Users\\Adel\\.nuget\\packages\\",
-      "outputPath": "E:\\My Program\\Pixelart\\Pixelart.Orders\\Pixelart.Orders.Core\\obj\\",
+      "outputPath": "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adel\\AppData\\Roaming\\NuGet\\NuGet.Config"
