@@ -1,7 +1,10 @@
 using Microsoft.EntityFrameworkCore;
 using Pixelart.Orders.Infrastructure.Data;
 using Pixelart.Orders.Infrastructure.Repositories;
+using Pixelart.Orders.Infrastructure.Services;
+using Pixelart.Orders.Services.Intefaces;
 using Pixelart.Orders.Services.Repositories;
+using Pixelart.Orders.Services.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +14,18 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+builder.Services.AddScoped<ICustomerRepository,CustomerRepository>();
+builder.Services.AddScoped<IProductRepository,ProductRepository>();
+
+builder.Services.AddScoped<IOrderService,OrderService>();
+builder.Services.AddScoped<ICustomerService,CustomerService>();
+builder.Services.AddScoped<IProductService,ProductService>();
+
+builder.Services.AddScoped<IMessageBroker,MessageBroker>();
+builder.Services.AddScoped<IMessageDispatcher,MessageDispahcer>();
+
+builder.Services.AddScoped<IDataSeeder,DataSeeder>();
+
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("PixelartDb")));

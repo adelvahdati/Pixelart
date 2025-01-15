@@ -29,9 +29,17 @@ public class OrderRepository : IOrderRepository
 
     public async Task<Order> GetAsync(Guid id)
     {
-        var orderEntity = await _dbContext.Orders.FindAsync(id);
+        var orderEntity = await _dbContext.Orders.Include(order=> order.Customer)
+                                                .Include(order=>order.Items)
+                                                .ThenInclude(orderItemEntity=> orderItemEntity.Product)
+                                                .Where(o=>o.Id == id)
+                                                .FirstOrDefaultAsync();
         if(orderEntity == null)
+        {
+            Console.WriteLine("Order not found");
             return null;            
+        }
+            
         
         return orderEntity.ToOrder();
     }

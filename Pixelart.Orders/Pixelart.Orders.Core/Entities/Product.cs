@@ -7,7 +7,8 @@ public class Product
     public Product(Guid id, string name, Price unitPrice)
     {
         Id = id;
-        Name = name;        
+        Name = name;
+        UnitPrice = unitPrice;        
     }
 
     public Guid Id { get; private set; }

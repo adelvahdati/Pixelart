@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pixelart.Orders.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ede87d1fa4373fc818c6fe8236b79362e878151")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93db7e5f01d47099afc75604e563203a9a8ea7c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pixelart.Orders.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pixelart.Orders.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
