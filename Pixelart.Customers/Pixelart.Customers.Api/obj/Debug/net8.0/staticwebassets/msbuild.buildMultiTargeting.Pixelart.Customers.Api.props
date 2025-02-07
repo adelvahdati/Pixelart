@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pixelart.Customers.Api.props" />
+</Project>

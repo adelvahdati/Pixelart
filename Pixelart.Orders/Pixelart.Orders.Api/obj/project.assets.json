@@ -3763,8 +3763,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Infrastructure\\Pixelart.Orders.Infrastructure.csproj": {
-              "projectPath": "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Infrastructure\\Pixelart.Orders.Infrastructure.csproj"
+            "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Infrastructure\\Pixelart.Orders.Infrastructure.csproj": {
+              "projectPath": "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Infrastructure\\Pixelart.Orders.Infrastructure.csproj"
             }
           }
         }

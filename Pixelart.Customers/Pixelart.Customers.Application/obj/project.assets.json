@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Pixelaret.Customers.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Pixelaret.Customers.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pixelaret.Customers.Core.dll": {}
+        }
+      },
+      "Pixelarte.Customers.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Pixelaret.Customers.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pixelarte.Customers.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pixelarte.Customers.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pixelaret.Customers.Core/1.0.0": {
+      "type": "project",
+      "path": "../Pixelaret.Customers.Core/Pixelaret.Customers.Core.csproj",
+      "msbuildProject": "../Pixelaret.Customers.Core/Pixelaret.Customers.Core.csproj"
+    },
+    "Pixelarte.Customers.Services/1.0.0": {
+      "type": "project",
+      "path": "../Pixelarte.Customers.Services/Pixelarte.Customers.Services.csproj",
+      "msbuildProject": "../Pixelarte.Customers.Services/Pixelarte.Customers.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Pixelarte.Customers.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Adel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\My Program\\Pixelart Project\\Pixelart.Customers\\Pixelart.Customers.Application\\Pixelart.Customers.Application.csproj",
+      "projectName": "Pixelart.Customers.Application",
+      "projectPath": "E:\\My Program\\Pixelart Project\\Pixelart.Customers\\Pixelart.Customers.Application\\Pixelart.Customers.Application.csproj",
+      "packagesPath": "C:\\Users\\Adel\\.nuget\\packages\\",
+      "outputPath": "E:\\My Program\\Pixelart Project\\Pixelart.Customers\\Pixelart.Customers.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Adel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "E:\\My Program\\Pixelart Project\\Pixelart.Customers\\Pixelarte.Customers.Services\\Pixelarte.Customers.Services.csproj": {
+              "projectPath": "E:\\My Program\\Pixelart Project\\Pixelart.Customers\\Pixelarte.Customers.Services\\Pixelarte.Customers.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

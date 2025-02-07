@@ -1,0 +1,12 @@
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelaret.Customers.Core\bin\Debug\net8.0\Pixelaret.Customers.Core.deps.json
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelaret.Customers.Core\bin\Debug\net8.0\Pixelaret.Customers.Core.dll
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelaret.Customers.Core\bin\Debug\net8.0\Pixelaret.Customers.Core.pdb
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelaret.Customers.Core\obj\Debug\net8.0\Pixelaret.Customers.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelaret.Customers.Core\obj\Debug\net8.0\Pixelaret.Customers.Core.AssemblyInfoInputs.cache
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelaret.Customers.Core\obj\Debug\net8.0\Pixelaret.Customers.Core.AssemblyInfo.cs
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelaret.Customers.Core\obj\Debug\net8.0\Pixelaret.Customers.Core.csproj.CoreCompileInputs.cache
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelaret.Customers.Core\obj\Debug\net8.0\Pixelaret.Customers.Core.sourcelink.json
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelaret.Customers.Core\obj\Debug\net8.0\Pixelaret.Customers.Core.dll
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelaret.Customers.Core\obj\Debug\net8.0\refint\Pixelaret.Customers.Core.dll
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelaret.Customers.Core\obj\Debug\net8.0\Pixelaret.Customers.Core.pdb
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelaret.Customers.Core\obj\Debug\net8.0\ref\Pixelaret.Customers.Core.dll

@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Application\\Pixelart.Orders.Application.csproj",
+      "projectUniqueName": "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Application\\Pixelart.Orders.Application.csproj",
       "projectName": "Pixelart.Orders.Application",
-      "projectPath": "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Application\\Pixelart.Orders.Application.csproj",
+      "projectPath": "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Application\\Pixelart.Orders.Application.csproj",
       "packagesPath": "C:\\Users\\Adel\\.nuget\\packages\\",
-      "outputPath": "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Application\\obj\\",
+      "outputPath": "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,8 +69,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Services\\Pixelart.Orders.Services.csproj": {
-              "projectPath": "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Services\\Pixelart.Orders.Services.csproj"
+            "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Services\\Pixelart.Orders.Services.csproj": {
+              "projectPath": "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Services\\Pixelart.Orders.Services.csproj"
             }
           }
         }

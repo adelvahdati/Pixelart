@@ -1,0 +1,16 @@
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\bin\Debug\net8.0\Pixelarte.Customers.Services.deps.json
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\bin\Debug\net8.0\Pixelarte.Customers.Services.dll
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\bin\Debug\net8.0\Pixelarte.Customers.Services.pdb
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\bin\Debug\net8.0\Pixelaret.Customers.Core.dll
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\bin\Debug\net8.0\Pixelaret.Customers.Core.pdb
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\obj\Debug\net8.0\Pixelarte.Customers.Services.csproj.AssemblyReference.cache
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\obj\Debug\net8.0\Pixelarte.Customers.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\obj\Debug\net8.0\Pixelarte.Customers.Services.AssemblyInfoInputs.cache
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\obj\Debug\net8.0\Pixelarte.Customers.Services.AssemblyInfo.cs
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\obj\Debug\net8.0\Pixelarte.Customers.Services.csproj.CoreCompileInputs.cache
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\obj\Debug\net8.0\Pixelarte.Customers.Services.sourcelink.json
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\obj\Debug\net8.0\Pixelart.B98B9C17.Up2Date
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\obj\Debug\net8.0\Pixelarte.Customers.Services.dll
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\obj\Debug\net8.0\refint\Pixelarte.Customers.Services.dll
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\obj\Debug\net8.0\Pixelarte.Customers.Services.pdb
+E:\My Program\Pixelart Project\Pixelart.Customers\Pixelarte.Customers.Services\obj\Debug\net8.0\ref\Pixelarte.Customers.Services.dll

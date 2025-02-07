@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj": {}
+    "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj": {}
   },
   "projects": {
-    "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj": {
+    "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj",
+        "projectUniqueName": "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj",
         "projectName": "Pixelart.Orders.Core",
-        "projectPath": "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj",
+        "projectPath": "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\Pixelart.Orders.Core.csproj",
         "packagesPath": "C:\\Users\\Adel\\.nuget\\packages\\",
-        "outputPath": "E:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\obj\\",
+        "outputPath": "e:\\My Program\\Pixelart Project\\Pixelart.Orders\\Pixelart.Orders.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adel\\AppData\\Roaming\\NuGet\\NuGet.Config"
